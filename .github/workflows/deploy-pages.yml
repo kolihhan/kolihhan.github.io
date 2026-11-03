@@ -23,12 +23,26 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+
+      - name: Build resume-only site from canonical source
+        run: |
+          mkdir -p _site
+          cp index.html _site/index.html
+          touch _site/.nojekyll
+          curl --fail --location --retry 3 \
+            https://raw.githubusercontent.com/kolihhan/job-resources/main/resumes/resume-en-current.pdf \
+            --output _site/resume.pdf
+          test -s _site/resume.pdf
+          test "$(head -c 5 _site/resume.pdf)" = '%PDF-'
+
       - name: Configure Pages
         uses: actions/configure-pages@v5
+
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: .
+          path: _site
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
