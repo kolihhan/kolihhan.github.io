@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -24,16 +24,30 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
-      - name: Build resume-only site from canonical source
+      - name: Sync canonical resume into branch
+        run: |
+          curl --fail --location --retry 3 \
+            https://raw.githubusercontent.com/kolihhan/job-resources/main/resumes/resume-en-current.pdf \
+            --output resume.pdf
+          test -s resume.pdf
+          test "$(head -c 5 resume.pdf)" = '%PDF-'
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add resume.pdf
+          if git diff --cached --quiet; then
+            echo 'resume.pdf already matches canonical source'
+          else
+            git commit -m 'Sync canonical resume PDF'
+            git push
+          fi
+
+      - name: Build resume-only site
         run: |
           mkdir -p _site
           cp index.html _site/index.html
+          cp resume.pdf _site/resume.pdf
           touch _site/.nojekyll
-          curl --fail --location --retry 3 \
-            https://raw.githubusercontent.com/kolihhan/job-resources/main/resumes/resume-en-current.pdf \
-            --output _site/resume.pdf
-          test -s _site/resume.pdf
-          test "$(head -c 5 _site/resume.pdf)" = '%PDF-'
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
