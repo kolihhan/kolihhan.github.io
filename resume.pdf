@@ -1,0 +1,328 @@
+%PDF-1.4
+% ASCII-safe PDF generated for web hosting
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 7 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/kolihhan)
+>> /Border [ 0 0 0 ] /Rect [ 460.2756 786.8898 493.2756 797.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.linkedin.com/in/ko-lih-han-748993241)
+>> /Border [ 0 0 0 ] /Rect [ 500.2756 786.8898 552.2756 797.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (mailto:lihhanko526@gmail.com)
+>> /Border [ 0 0 0 ] /Rect [ 407.2756 799.8898 552.2756 811.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R ] /Contents 12 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 11 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/PageMode /UseNone /Pages 11 0 R /Type /Catalog
+>>
+endobj
+10 0 obj
+<<
+/Author (anonymous) /CreationDate (D:20261103083554+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20261103083554+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (unspecified) /Title (Ko Lih Han - Resume) /Trapped /False
+>>
+endobj
+11 0 obj
+<<
+/Count 1 /Kids [ 8 0 R ] /Type /Pages
+>>
+endobj
+12 0 obj
+<<
+/Length 8818
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 18 Tf 21.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 43 799.8898 Tm (KO LIH HAN) Tj T* ET
+BT /F1 8.1 Tf 9.72 TL ET
+.239216 .254902 .282353 rg
+BT 1 0 0 1 390.8912 802.8898 Tm (+60 17-424 6282  |  lihhanko526@gmail.com) Tj T* ET
+BT /F1 8.1 Tf 9.72 TL ET
+.239216 .254902 .282353 rg
+BT 1 0 0 1 442.2695 789.8898 Tm (Malaysia  |  GitHub  |  LinkedIn) Tj T* ET
+BT /F2 8.2 Tf 9.84 TL ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 43 768.8898 Tm (WORK EXPERIENCE) Tj T* ET
+.72549 .741176 .764706 RG
+.45 w
+n 43 763.8898 m 552.2756 763.8898 l S
+BT /F2 9.3 Tf 11.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 43 750.8898 Tm (Software Developer) Tj T* ET
+BT /F1 7.8 Tf 9.36 TL ET
+.333333 .352941 .380392 rg
+BT 1 0 0 1 478.5578 750.8898 Tm (Aug 2022 - Aug 2026) Tj T* ET
+BT /F1 7.8 Tf 9.36 TL ET
+.333333 .352941 .380392 rg
+BT 1 0 0 1 43 739.8898 Tm (Kahap Inc | Part-time) Tj T* ET
+BT /F2 7.6 Tf 9.12 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 45 726.8898 Tm (-) Tj T* ET
+BT /F1 7.6 Tf 9.12 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 57 726.8898 Tm (Developed core features for a production Laravel/Vue.js feedback platform, including submissions, discussions, administrative review,) Tj T* ET
+BT /F1 7.6 Tf 9.12 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 57 716.8898 Tm (notifications, and scheduled tasks.) Tj T* ET
+BT /F2 7.6 Tf 9.12 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 45 704.8898 Tm (-) Tj T* ET
+BT /F1 7.6 Tf 9.12 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 57 704.8898 Tm (Managed day-to-day production operations across deployments, queue workers, scheduled jobs, database migrations, SSL renewal, and Linux) Tj T* ET
+BT /F1 7.6 Tf 9.12 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 57 694.8898 Tm (server troubleshooting.) Tj T* ET
+BT /F2 7.6 Tf 9.12 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 45 682.8898 Tm (-) Tj T* ET
+BT /F1 7.6 Tf 9.12 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 57 682.8898 Tm (Integrated GPT-SoVITS into backend speech workflows with pronunciation and text validation before synthesis.) Tj T* ET
+BT /F2 9.3 Tf 11.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 43 667.8898 Tm (Full-Stack Developer Intern) Tj T* ET
+BT /F1 7.8 Tf 9.36 TL ET
+.333333 .352941 .380392 rg
+BT 1 0 0 1 481.163 667.8898 Tm (Jun 2021 - Jan 2022) Tj T* ET
+BT /F1 7.8 Tf 9.36 TL ET
+.333333 .352941 .380392 rg
+BT 1 0 0 1 43 656.8898 Tm (Pac Com Solution) Tj T* ET
+BT /F2 7.6 Tf 9.12 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 45 643.8898 Tm (-) Tj T* ET
+BT /F1 7.6 Tf 9.12 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 57 643.8898 Tm (Developed and maintained features for a production Laravel/Vue.js point-of-sale system across backend logic and frontend interfaces.) Tj T* ET
+BT /F2 8.2 Tf 9.84 TL ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 43 628.8898 Tm (RESEARCH EXPERIENCE) Tj T* ET
+.72549 .741176 .764706 RG
+.45 w
+n 43 623.8898 m 552.2756 623.8898 l S
+BT /F2 9.3 Tf 11.16 TL ET
+0 0 0 rg
+BT 1 0 0 1 43 610.8898 Tm (Context-Aware Implicit Intent Understanding in Workplace Dialogue) Tj T* ET
+BT /F1 7.8 Tf 9.36 TL ET
+.333333 .352941 .380392 rg
+BT 1 0 0 1 43 599.8898 Tm (M.S. Thesis, National Tsing Hua University | NLP, Graph Learning, Knowledge Graphs, LLMs) Tj T* ET
+BT /F2 7.6 Tf 9.12 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 45 586.8898 Tm (-) Tj T* ET
+BT /F1 7.6 Tf 9.12 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 57 586.8898 Tm (Modeled how workplace context and speaker-listener roles affect the implicit intent of an utterance.) Tj T* ET
+BT /F2 7.6 Tf 9.12 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 45 574.8898 Tm (-) Tj T* ET
+BT /F1 7.6 Tf 9.12 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 57 574.8898 Tm (Represented speaker and listener states as dialogue graphs, and retrieved role- and context-specific knowledge to guide Llama 3.1-8B.) Tj T* ET
+BT /F2 7.6 Tf 9.12 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 45 562.8898 Tm (-) Tj T* ET
+BT /F1 7.6 Tf 9.12 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 57 562.8898 Tm (Evaluated the approach on 400 cases where only the target utterance was available; combining role and context knowledge improved semantic F1) Tj T* ET
+BT /F1 7.6 Tf 9.12 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 57 552.8898 Tm (from 0.644 to 0.682.) Tj T* ET
+BT /F2 8.2 Tf 9.84 TL ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 43 537.8898 Tm (PROJECTS) Tj T* ET
+.72549 .741176 .764706 RG
+.45 w
+n 43 532.8898 m 552.2756 532.8898 l S
+BT /F2 8.8 Tf 10.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 43 519.8898 Tm (Small-Agent QLoRA) Tj T* ET
+BT /F3 7.4 Tf 8.88 TL ET
+.333333 .352941 .380392 rg
+BT 1 0 0 1 43 509.8898 Tm (Qwen3.5-9B, QLoRA, Tool Use, Agent Evaluation) Tj T* ET
+BT /F2 7.3 Tf 8.76 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 45 498.8898 Tm (-) Tj T* ET
+BT /F1 7.3 Tf 8.76 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 57 498.8898 Tm (Built a Qwen-based agent that can search, inspect files, and execute Python to complete multi-step tasks.) Tj T* ET
+BT /F2 7.3 Tf 8.76 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 45 487.8898 Tm (-) Tj T* ET
+BT /F1 7.3 Tf 8.76 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 57 487.8898 Tm (Fine-tuned the model on examples collected from failed agent runs, improving task success from 34.5% to 62.0% across 200 evaluation tasks.) Tj T* ET
+BT /F2 7.3 Tf 8.76 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 45 476.8898 Tm (-) Tj T* ET
+BT /F1 7.3 Tf 8.76 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 57 476.8898 Tm (On GAIA100, accuracy improved from 9% to 18%; error analysis showed excessive searching remained the main failure mode.) Tj T* ET
+BT /F2 8.8 Tf 10.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 43 464.8898 Tm (Hybrid Retrieval Evaluation) Tj T* ET
+BT /F3 7.4 Tf 8.88 TL ET
+.333333 .352941 .380392 rg
+BT 1 0 0 1 43 454.8898 Tm (BM25, Dense Retrieval, RRF, Retrieval Evaluation) Tj T* ET
+BT /F2 7.3 Tf 8.76 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 45 443.8898 Tm (-) Tj T* ET
+BT /F1 7.3 Tf 8.76 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 57 443.8898 Tm (Compared lexical, dense, and hybrid retrieval for finding relevant documents from a 5,189-document collection.) Tj T* ET
+BT /F2 7.3 Tf 8.76 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 45 432.8898 Tm (-) Tj T* ET
+BT /F1 7.3 Tf 8.76 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 57 432.8898 Tm (Combining BM25 and dense retrieval improved Recall@10 from 0.734 to 0.763 and MRR@20 from 0.679 to 0.742 across 64 queries.) Tj T* ET
+BT /F2 8.8 Tf 10.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 43 420.8898 Tm (Semantic Text-to-SQL) Tj T* ET
+BT /F3 7.4 Tf 8.88 TL ET
+.333333 .352941 .380392 rg
+BT 1 0 0 1 43 410.8898 Tm (Qwen3.5-9B, Schema Grounding, SQL Validation, Agentic Repair) Tj T* ET
+BT /F2 7.3 Tf 8.76 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 45 399.8898 Tm (-) Tj T* ET
+BT /F1 7.3 Tf 8.76 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 57 399.8898 Tm (Built a Text-to-SQL system that uses database schema information to generate, check, and repair SQL before execution.) Tj T* ET
+BT /F2 7.3 Tf 8.76 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 45 388.8898 Tm (-) Tj T* ET
+BT /F1 7.3 Tf 8.76 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 57 388.8898 Tm (On 100 BIRD DEV queries, correct-query accuracy improved from 33% to 39%, fixing 6 previously incorrect cases without introducing regressions.) Tj T* ET
+BT /F2 8.2 Tf 9.84 TL ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 43 376.8898 Tm (EDUCATION) Tj T* ET
+.72549 .741176 .764706 RG
+.45 w
+n 43 371.8898 m 552.2756 371.8898 l S
+BT /F2 8.8 Tf 10.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 43 358.8898 Tm (National Tsing Hua University) Tj T* ET
+BT /F1 7.6 Tf 9.12 TL ET
+.333333 .352941 .380392 rg
+BT 1 0 0 1 521.0092 358.8898 Tm (Jun 2026) Tj T* ET
+BT /F1 7.5 Tf 9 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 43 348.8898 Tm (M.S. in Information Systems & Applications | GPA 4.09/4.3) Tj T* ET
+BT /F2 8.8 Tf 10.56 TL ET
+0 0 0 rg
+BT 1 0 0 1 43 334.8898 Tm (Chung Hua University) Tj T* ET
+BT /F1 7.6 Tf 9.12 TL ET
+.333333 .352941 .380392 rg
+BT 1 0 0 1 521.0092 334.8898 Tm (Jun 2024) Tj T* ET
+BT /F1 7.5 Tf 9 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 43 324.8898 Tm (B.S. in Computer Science & Information Engineering | GPA 3.9/4.0) Tj T* ET
+BT /F2 8.2 Tf 9.84 TL ET
+.066667 .066667 .066667 rg
+BT 1 0 0 1 43 308.8898 Tm (SKILLS) Tj T* ET
+.72549 .741176 .764706 RG
+.45 w
+n 43 303.8898 m 552.2756 303.8898 l S
+BT /F2 7.4 Tf 8.88 TL ET
+0 0 0 rg
+BT 1 0 0 1 43 290.8898 Tm (LLM / NLP:) Tj T* ET
+BT /F1 7.4 Tf 8.88 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 125 290.8898 Tm (RAG, hybrid retrieval, knowledge graphs, tool-using agents, PEFT / QLoRA, LLM evaluation) Tj T* ET
+BT /F2 7.4 Tf 8.88 TL ET
+0 0 0 rg
+BT 1 0 0 1 43 280.8898 Tm (Machine Learning:) Tj T* ET
+BT /F1 7.4 Tf 8.88 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 125 280.8898 Tm (Transformers, graph neural networks, embedding models) Tj T* ET
+BT /F2 7.4 Tf 8.88 TL ET
+0 0 0 rg
+BT 1 0 0 1 43 270.8898 Tm (Backend:) Tj T* ET
+BT /F1 7.4 Tf 8.88 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 125 270.8898 Tm (Python, FastAPI, PHP, Laravel, REST APIs, SQL, MySQL, SQLite) Tj T* ET
+BT /F2 7.4 Tf 8.88 TL ET
+0 0 0 rg
+BT 1 0 0 1 43 260.8898 Tm (Tools:) Tj T* ET
+BT /F1 7.4 Tf 8.88 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 125 260.8898 Tm (Linux, Git, pytest, llama.cpp, LangGraph) Tj T* ET
+BT /F2 7.4 Tf 8.88 TL ET
+0 0 0 rg
+BT 1 0 0 1 43 250.8898 Tm (Languages:) Tj T* ET
+BT /F1 7.4 Tf 8.88 TL ET
+.2 .2 .2 rg
+BT 1 0 0 1 125 250.8898 Tm (Chinese \(Native\), English \(Fluent\), Malay \(Intermediate\)) Tj T* ET
+ 
+endstream
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000061 00000 n 
+0000000112 00000 n 
+0000000219 00000 n 
+0000000331 00000 n 
+0000000510 00000 n 
+0000000710 00000 n 
+0000000890 00000 n 
+0000001005 00000 n 
+0000001240 00000 n 
+0000001309 00000 n 
+0000001582 00000 n 
+0000001642 00000 n 
+trailer
+<<
+/ID 
+[<268bf0a774736f956b8c2d2bfd89cf4d><268bf0a774736f956b8c2d2bfd89cf4d>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 10 0 R
+/Root 9 0 R
+/Size 13
+>>
+startxref
+10512
+%%EOF
